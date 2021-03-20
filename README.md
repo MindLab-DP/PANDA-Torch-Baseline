@@ -8,6 +8,9 @@ Automated deep learning systems have shown some promise in accurately grading PC
 
 The training set consists of around 11,000 whole-slide images of digitized H&E-stained biopsies originating from two centers. This is the largest public whole-slide image dataset available, roughly 8 times the size of the CAMELYON17 challenge, one of the largest digital pathology datasets and best known challenges in the field. Furthermore, in contrast to previous challenges, we are making full diagnostic biopsy images available. Using a sizable multi-center test set, graded by expert uro-pathologists, we will evaluate challenge submissions on their applicability to improve this critical diagnostic function.
 
+### Dataset
+
+Dataset Available [here](https://www.kaggle.com/c/prostate-cancer-grade-assessment)
 
 ## Digital pathology
 Many fundamental aspects of pathology as a medical discipline have remained largely unchanged for decades, but the field is currently undergoing a transition into a digital discipline. In digital pathology, microscopy slides containing tissue samples are scanned into whole slide images (WSI). These high-resolution images are then analyzed computationally instead of the conventional approach of visually evaluating the slides under a microscope. Among other benefits, digital pathology unlocks the possibility of applying computational methods on the resulting data, most notably image analysis techniques based on artificial intelligence (AI) and machine learning. For more information on digital and computational pathology, see e.g. (Bera, 2019) or (Niazi, 2019).
