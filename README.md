@@ -41,7 +41,8 @@ If there is no cancer in the sample, we use the label ISUP grade 0 in this compe
 Your task in the challenge is to provide the correct ISUP grade for each biopsy, with correctness measured against the grades assigned by pathologists. One should note that there is considerable variation in the ISUP grades assigned by different pathologists even for the same biopsy, which leads to noise also in the labels provided for the data in this challenge. We have therefore invited several international expert pathologists to each label the test data, and from that derived a consensus label. See for example (Egevad, 2013) for more information on inter-pathologist variation in Gleason grading.
 
 ### Computational Gleason grading.
-For recent reports on performing Gleason grading of biopsies automatically based on AI, see e.g. (Ström & Kartasalo, 2020) and (Bulten, 2020) or the corresponding freely available pre-print versions at https://arxiv.org/abs/1907.01368 and https://arxiv.org/abs/1907.07980.
+
+For recent reports on performing Gleason grading of biopsies automatically based on AI, see e.g. (Ström & Kartasalo, 2020) and (Bulten, 2020) or the corresponding pre-print versions at https://arxiv.org/abs/1907.01368 and https://arxiv.org/abs/1907.07980.
 
 ### References
 
